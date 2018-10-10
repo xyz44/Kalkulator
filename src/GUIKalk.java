@@ -5,7 +5,7 @@ import javax.swing.*;
  * Created by Bogdan on 19-09-2017.
  */
 public class GUIKalk extends JFrame {
-    String nazwaApp;
+    private String nazwaApp;
 
     public GUIKalk() {
         super("Kalkulator");
